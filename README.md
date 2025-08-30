@@ -70,5 +70,4 @@ This course aims to equip students with the theoretical foundations and practica
 # Credits
 
 This course is based on a course Indira co-taught and co-created with David Garcia at the University of Konstanz. We're also grateful to the following related courses and resources for informing the materials in this one:
-  -
   
