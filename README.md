@@ -36,7 +36,7 @@ This course aims to equip students with the theoretical foundations and practica
 
 **Week 7: AI-augmented Surveys**
 
-	- Out of one
+	- Out of one, many: Using language models to simulate human samples
 	- Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies
 
 **Week 8: Social Media Simulations**
@@ -58,7 +58,7 @@ This course aims to equip students with the theoretical foundations and practica
 **Week 12: AI Safety and Alignment**
 
 	- US eating disorder helpline takes down AI chatbot over harmful advice
-	- PRISM
+	- The PRISM alignment dataset: What participatory, representative and individualised human feedback reveals about the subjective and multicultural alignment of large language models.
 
 **Week 13: Auditing LLMs**
 
