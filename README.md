@@ -7,27 +7,29 @@ This course aims to equip students with the theoretical foundations and practica
 
 **Week 1: Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification**
 
-	- How to read a research paper
-	- C.A. Bail, Can Generative AI improve social science?, Proc. Natl. Acad. Sci. U.S.A. 121 (21) e2314021121, https://doi.org/10.1073/pnas.2314021121 (2024).
+[How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
+[Can Generative AI improve social science?](https://www.pnas.org/doi/10.1073/pnas.2314021121)
 
 **Week 2: Demystifying LLMs 2: Word Embeddings and Transformers**
 
-	- https://lena-voita.github.io/nlp_course/word_embeddings.html
-	- Introduction to Transformers with Andrej Karpathy
+[Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html)
+[Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 
 **Week 3: Demystifying LLMs 3: Generative LLMs**
-	
-	- McCoy, R. Thomas, et al. "Embers of autoregression show how large language models are shaped by the problem they are trained to solve." Proceedings of the National Academy of Sciences 121.41 (2024): e2322420121.
+
+[Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html)
+[Embers of autoregression show how large language models are shaped by the problem they are trained to solve.](https://www.pnas.org/doi/10.1073/pnas.2322420121)
 
 **Week 4: Interacting with and Steering LLMs: Prompting, Fine-tuning**
 
-	- Schulhoff, Sander, et al. "The prompt report: a systematic survey of prompt engineering techniques." arXiv preprint arXiv:2406.06608 (2024).
-	- https://developers.google.com/machine-learning/glossary#fine-tuning
+[The prompt report: a systematic survey of prompt engineering techniques.](https://arxiv.org/abs/2406.06608)
+[Fine-tuning](https://developers.google.com/machine-learning/glossary#fine-tuning)
 
 **Week 5: Infrastructure powering LLMs**
 
-	- Lambert, Nathan, et al., "Illustrating Reinforcement Learning from Human Feedback (RLHF)", Hugging Face Blog, 2022.
-	- Soldaini, Luca, et al. "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research." Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
+[Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+[Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.](https://arxiv.org/abs/2402.00159)
 
 **Week 6: Content Analysis**
 
