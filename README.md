@@ -43,34 +43,39 @@ This course aims to equip students with the theoretical foundations and practica
 
 **Week 7: AI-augmented Surveys**
 
-	- Out of one, many: Using language models to simulate human samples
-	- Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies
+[Out of one, many: Using language models to simulate human samples](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
+
+[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a/aher23a.pdf)
 
 **Week 8: Social Media Simulations**
 
-	- Social Simulacra: Creating Populated Prototypes for Social Computing Systems
-	- Simulating social media using large language models to evaluate alternative news feed algorithms
+[Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)
+
+[Simulating social media using large language models to evaluate alternative news feed algorithms](https://arxiv.org/pdf/2310.05984)
 
 **Week 9: Midway Project Presentations**
 
 **Week 10: Machine Behavior**
 
-	- Rahwan, I., Cebrian, M., Obradovich, N. et al. Machine behaviour. Nature 568, 477–486 (2019). https://doi.org/10.1038/s41586-019-1138-y
-	- AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories
+[Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y)
+
+[AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/10.1177/17456916231214460)
 
 **Week 11: Ethical Impacts**
 
-	-  On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 **Week 12: AI Safety and Alignment**
 
-	- US eating disorder helpline takes down AI chatbot over harmful advice
-	- The PRISM alignment dataset: What participatory, representative and individualised human feedback reveals about the subjective and multicultural alignment of large language models.
+[What is ‘AI psychosis’ and how can ChatGPT affect your mental health?](https://www.washingtonpost.com/health/2025/08/19/ai-psychosis-chatgpt-explained-mental-health/)
+
+[The PRISM alignment project](https://hannahkirk.github.io/prism-alignment/)
 
 **Week 13: Auditing LLMs**
 
-	- Raji, Inioluwa Deborah, et al. "Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing." Proceedings of the 2020 conference on fairness, accountability, and transparency. 2020.
-	- Mökander, Jakob, et al. "Auditing large language models: a three-layered approach." AI and Ethics 4.4 (2024): 1085-1115.
+[Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing.](https://dl.acm.org/doi/10.1145/3351095.3372873)
+
+[Auditing large language models: a three-layered approach.](https://link.springer.com/article/10.1007/s43681-023-00289-2)
 
 **Week 14: Summary and Outlook**
 
