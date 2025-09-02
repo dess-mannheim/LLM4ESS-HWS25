@@ -37,8 +37,9 @@ This course aims to equip students with the theoretical foundations and practica
 
 **Week 6: Content Analysis**
 
-	- ChatGPT outperforms crowd workers for text-annotation tasks
-	- Chatbots Are Not Reliable Text Annotators
+[ChatGPT outperforms crowd workers for text-annotation tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120)
+
+[Are Chatbots Reliable Text Annotators? Sometimes](https://arxiv.org/abs/2311.05769)
 
 **Week 7: AI-augmented Surveys**
 
