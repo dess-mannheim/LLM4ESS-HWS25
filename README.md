@@ -3,7 +3,7 @@ A course developed and taught by [Indira Sen](https://indiiigo.github.io/), [Abi
 
 This course aims to equip students with the theoretical foundations and practical skills necessary to leverage Large Language Models (LLMs) in computational social science research. Students will explore how LLMs can be used for analyzing social and economic data, modeling human behavior, and generating insights from large-scale data sources. They will also learn about the challenges of using LLMs for social research and how social science principles can help audit and evaluate LLMs.
 
-# Topics and Readings
+## Topics and Readings
 
 **Week 1: Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification**
 
@@ -79,7 +79,7 @@ This course aims to equip students with the theoretical foundations and practica
 
 **Week 14: Summary and Outlook**
 
-# Credits
+## Credits
 
 This course is based on a [course](https://github.com/dgarcia-eu/SILLM) Indira co-taught and co-created with [David Garcia](https://www.uni-konstanz.de/centre-for-human-data-society/people/prof-david-garcia/) at the University of Konstanz. We're also grateful to the following related courses and resources for informing the materials in this one:
 
