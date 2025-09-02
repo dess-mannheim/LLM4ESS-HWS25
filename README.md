@@ -1,5 +1,5 @@
 # IS 617 Large Language Models for the Economic and Social Sciences - HWS25 (University of Mannheim)
-A course developed and taught by Indira Sen, Abigail Hayes, and Georg Ahnert
+A course developed and taught by [Indira Sen](https://indiiigo.github.io/), [Abigail Hayes](https://www.bwl.uni-mannheim.de/strohmaier/team/wissenschaftliche-mitarbeiter/abigail-hayes/), and [Georg Ahnert](https://georgahnert.de/)
 
 This course aims to equip students with the theoretical foundations and practical skills necessary to leverage Large Language Models (LLMs) in computational social science research. Students will explore how LLMs can be used for analyzing social and economic data, modeling human behavior, and generating insights from large-scale data sources. They will also learn about the challenges of using LLMs for social research and how social science principles can help audit and evaluate LLMs.
 
@@ -81,5 +81,7 @@ This course aims to equip students with the theoretical foundations and practica
 
 # Credits
 
-This course is based on a course Indira co-taught and co-created with David Garcia at the University of Konstanz. We're also grateful to the following related courses and resources for informing the materials in this one:
-  
+This course is based on a [course](https://github.com/dgarcia-eu/SILLM) Indira co-taught and co-created with [David Garcia](https://www.uni-konstanz.de/centre-for-human-data-society/people/prof-david-garcia/) at the University of Konstanz. We're also grateful to the following related courses and resources for informing the materials in this one:
+
+- Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition. Online manuscript released August 24, 2025. https://web.stanford.edu/~jurafsky/slp3.
+- Elena Voita, 2020. NLP Course for you. https://lena-voita.github.io/nlp_course.html
