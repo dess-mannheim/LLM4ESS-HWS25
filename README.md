@@ -14,6 +14,7 @@ This course aims to equip students with the theoretical foundations and practica
 **Week 2: Demystifying LLMs 2: Word Embeddings and Transformers**
 
 [Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html)
+
 [Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 
 **Week 3: Demystifying LLMs 3: Generative LLMs**
@@ -21,14 +22,17 @@ This course aims to equip students with the theoretical foundations and practica
 [Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html)
 [Embers of autoregression show how large language models are shaped by the problem they are trained to solve.](https://www.pnas.org/doi/10.1073/pnas.2322420121)
 
+
 **Week 4: Interacting with and Steering LLMs: Prompting, Fine-tuning**
 
 [The prompt report: a systematic survey of prompt engineering techniques.](https://arxiv.org/abs/2406.06608)
+
 [Fine-tuning](https://developers.google.com/machine-learning/glossary#fine-tuning)
 
 **Week 5: Infrastructure powering LLMs**
 
 [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+
 [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.](https://arxiv.org/abs/2402.00159)
 
 **Week 6: Content Analysis**
