@@ -22,6 +22,7 @@ This is a porject-based course. Be creative in thinking of a project, but here a
 **Week 3: Demystifying LLMs 3: Generative LLMs**
 
 [Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html)
+
 [Embers of autoregression show how large language models are shaped by the problem they are trained to solve.](https://www.pnas.org/doi/10.1073/pnas.2322420121)
 
 
