@@ -1,6 +1,6 @@
 ## Project Ideas
 
-80% of the course assessment is based on a team project. Each team is supposed to deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the ACL template). You can find examples of such papers at the end. Here are some ideas to help you get started:
+80% of the course assessment is based on a team project. Each team is supposed to deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the [ACL template](https://github.com/acl-org/acl-style-files). You can find examples of such papers at the end. Here are some ideas to help you get started:
 
 ### LLM Simulations
 - Who do LLMs think you are?
