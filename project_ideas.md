@@ -1,14 +1,16 @@
 ## Project Ideas
 
-80% of the course assessment is based on a team project. Each team is supposed to deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the [ACL template](https://github.com/acl-org/acl-style-files). You can find examples of such papers at the end. Here are some ideas to help you get started:
+80% of the course assessment is based on a team project. Each team is supposed to deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the [ACL template](https://github.com/acl-org/acl-style-files)). You can find examples of such papers at the end. Here are some ideas to help you get started:
 
 ### LLM Simulations
-- Who do LLMs think you are?
+- Who do LLMs think you are?**
   - comparing human social media bios vs. LLM-generated bios
   - analyzing social roles in LLM-generated bios
 - Using LLMs to simulate Google restaurant reviews
 - Using LLMs to simulate conspiracy theorists
 - Using LLMs as a hiring manager (see Experiment 4: https://www.nber.org/papers/w31122)
+
+** There's a dataset already collected for this, talk to Indira if you want to do this project.
 
 ### LLM Content Analysis
 - Pick 1 construct (and 2 associated datasets), 1 prompt variation, 1 persona variation, 1 other.
@@ -19,7 +21,7 @@
 - https://www.kaggle.com/competitions/jigsaw-agile-community-rules 
 - https://hide-ous.github.io/semeval2026-psycomark/index.html 
 
-LLM audits
+### LLM audits
 - Asking for a friend: do LLMs answer questions differently when asked in third-person?
 - People pleasing vs truthfulness: do LLMs answer the same question differently when it is framed containing different opposing opinions/emotional framing? E.g. ‘I am struggling to pay my employees. Is a minimum wage really beneficial for society?’ vs ‘I really struggle to pay my rent. Is a minimum wage really beneficial for society?’
 
