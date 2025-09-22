@@ -8,8 +8,7 @@ For the project, there will be three presentations (30%) and a final report (50%
 
 - **Motivation**: What question(s) do you seek to answer and why? Elaborate on how this research matters in terms of science, technology and/or society [5]
 
-- **Research background**: What previous work is related to this project and what can we learn from it? Do not just cite papers but anything relevant and 
-reflect about the cited contributions on your text [5]
+- **Research background**: What previous work is related to this project and what can we learn from it? Do not just cite papers but highlight what's relevant to your work. Reflect about the cited contributions on your text [5]
 
 - **Data**: Describe your data sources including descriptive statistics and plots. Carefully document all references to data sources. [10]
 
@@ -20,9 +19,11 @@ you will apply to assess your research question(s). Carefully document all refer
 
 - **Conclusion and Discussion**: Evaluate answers to the question and their reliability. Identify limitations and alternative explanations for your results. [5]
 
-Note: Remember to include author contributions in the final report
+Note: Remember to include author contributions in the final report (After the conclusion).
 
 ## Project Presentations 
+
+All members of a group do not have to present but all members should be prepared to answer questions.
 
 ### Project Pitches [5 minutes for each team, 5 points]
 
