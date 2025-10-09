@@ -5,82 +5,24 @@ This course aims to equip students with the theoretical foundations and practica
 
 This is a project-based course. Be creative in thinking of a project, but here are [some ideas](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/project_ideas.md) to get you started.
 
-## Topics and Readings
+## Schedule and Materials
 
-**Week 1: Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification**
-
-[How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-
-[Can Generative AI improve social science?](https://www.pnas.org/doi/10.1073/pnas.2314021121)
-
-**Week 2: Demystifying LLMs 2: Word Embeddings and Transformers**
-
-[Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html)
-
-[Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
-
-**Week 3: Demystifying LLMs 3: Generative LLMs**
-
-[Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html)
-
-[Embers of autoregression show how large language models are shaped by the problem they are trained to solve.](https://www.pnas.org/doi/10.1073/pnas.2322420121)
-
-
-**Week 4: Interacting with and Steering LLMs: Prompting, Fine-tuning**
-
-[The prompt report: a systematic survey of prompt engineering techniques.](https://arxiv.org/abs/2406.06608)
-
-[Fine-tuning](https://developers.google.com/machine-learning/glossary#fine-tuning)
-
-**Week 5: Infrastructure powering LLMs**
-
-[Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
-
-[Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.](https://arxiv.org/abs/2402.00159)
-
-**Week 6: Content Analysis**
-
-[ChatGPT outperforms crowd workers for text-annotation tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120)
-
-[Are Chatbots Reliable Text Annotators? Sometimes](https://arxiv.org/abs/2311.05769)
-
-**Week 7: AI-augmented Surveys**
-
-[Out of one, many: Using language models to simulate human samples](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
-
-[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a/aher23a.pdf)
-
-**Week 8: Social Media Simulations**
-
-[Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)
-
-[Simulating social media using large language models to evaluate alternative news feed algorithms](https://arxiv.org/pdf/2310.05984)
-
-**Week 9: Midway Project Presentations**
-
-**Week 10: Machine Behavior**
-
-[Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y)
-
-[AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/10.1177/17456916231214460)
-
-**Week 11: Ethical Impacts**
-
-[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
-
-**Week 12: AI Safety and Alignment**
-
-[What is ‘AI psychosis’ and how can ChatGPT affect your mental health?](https://www.washingtonpost.com/health/2025/08/19/ai-psychosis-chatgpt-explained-mental-health/)
-
-[The PRISM alignment project](https://hannahkirk.github.io/prism-alignment/)
-
-**Week 13: Auditing LLMs**
-
-[Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing.](https://dl.acm.org/doi/10.1145/3351095.3372873)
-
-[Auditing large language models: a three-layered approach.](https://link.springer.com/article/10.1007/s43681-023-00289-2)
-
-**Week 14: Summary and Outlook**
+| Week | Lecture | Readings | Tutorial |
+|------|---------|----------|----------|
+|  1    |[Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/01%20Introduction%20and%20Demystifying%20LLMs.pdf)       | 1. [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)<br>2. [Can Generative AI improve social science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) |[Setup](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%200)          |
+|   2   |[Demystifying LLMs 2: Word Embeddings and Transformers](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/02_IS%20617%20LLMs4ESS%20NLP2.pdf)        |1. [Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html)<br>2. [Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)          |[NLP Basics](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%201)           |
+|    3  |[Demystifying LLMs 3: Generative LLMs](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/03_IS%20617%20LLMs4ESS%20NLP3.pdf)         | 1. [Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html)<br>2. [Embers of autoregression show how large language models are shaped by the problem they are trained to solve.](https://www.pnas.org/doi/10.1073/pnas.2322420121)| [HuggingFace](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%202)         |
+|   4   |[Interacting with and Steering LLMs](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/04_IS%20617%20LLMs4ESS%20Prompting.pdf)         | 1. [The prompt report: a systematic survey of prompt engineering techniques.](https://arxiv.org/abs/2406.06608)<br>2. [Fine-tuning](https://developers.google.com/machine-learning/glossary#fine-tuning)         |  [LLM Inference](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%203)        |
+|   5   |[Infrastructure powering LLMs](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/05_IS%20617%20LLMs4ESS%20Labor%20and%20Infrastructure.pdf)         |1. [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)<br>2.[Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.](https://arxiv.org/abs/2402.00159)|[Prompting](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%204)         |
+|   6   | [Content Analysis](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/Lectures/06_IS%20617%20LLMs4ESS%20Content%20Analysis.pdf) and Project Pitches        |1. [ChatGPT outperforms crowd workers for text-annotation tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120)<br>[Are Chatbots Reliable Text Annotators? Sometimes](https://arxiv.org/abs/2311.05769)|  [Content Analysis](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main/Exercises/Exercise%205)        |
+|   7   |  AI-augmented Surveys       |  1. [Out of one, many: Using language models to simulate human samples](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)<br>2. [Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a/aher23a.pdf)        |          |
+|   8   |   Social Media Simulations      | 1. [Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)<br>2. [Simulating social media using large language models to evaluate alternative news feed algorithms](https://arxiv.org/pdf/2310.05984)|          |
+|   9   |    Project Discussion     |          |  Midway Project Presentations        |
+|   10   |   Machine Behavior      |  1. [Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y)<br>2. [AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/10.1177/17456916231214460)|          |
+|   11   |    Ethical Impacts     |  1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)        |          |
+|   12   |    AI Safety and Alignment     |    1. [What is ‘AI psychosis’ and how can ChatGPT affect your mental health?](https://www.washingtonpost.com/health/2025/08/19/ai-psychosis-chatgpt-explained-mental-health/)<br>2. [The PRISM alignment project](https://hannahkirk.github.io/prism-alignment/)|          |
+|   13   |   Auditing LLMs      |    1. [Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing.](https://dl.acm.org/doi/10.1145/3351095.3372873)<br>2. [Auditing large language models: a three-layered approach.](https://link.springer.com/article/10.1007/s43681-023-00289-2)|          |
+|   14   |   Summary and Project Discussions      |          |   Final Presentation       |
 
 ## Credits
 
