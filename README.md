@@ -3,7 +3,7 @@ A course developed and taught by [Indira Sen](https://indiiigo.github.io/), [Abi
 
 This course aims to equip students with the theoretical foundations and practical skills necessary to leverage Large Language Models (LLMs) in computational social science research. Students will explore how LLMs can be used for analyzing social and economic data, modeling human behavior, and generating insights from large-scale data sources. They will also learn about the challenges of using LLMs for social research and how social science principles can help audit and evaluate LLMs.
 
-This is a project-based course. Be creative in thinking of a project, but here are [some ideas](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/project_ideas.md) to get you started. Please checking the [grading rubric](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/grading_rubric.md) to see what criteria will be used to score your projects as well as the course policy on the [use of AI tools in conducting project work](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/AI_usage_policy.md).
+This is a project-based course. Be creative in thinking of a project, but here are [some ideas](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/project_ideas.md) to get you started. Please check the [grading rubric](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/grading_rubric.md) to see what criteria will be used to score your projects as well as the course policy on the [use of AI tools in conducting project work](https://github.com/dess-mannheim/LLM4ESS-HWS25/blob/main/AI_usage_policy.md).
 
 ## Schedule and Materials
 
