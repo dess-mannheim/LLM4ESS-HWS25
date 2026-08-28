@@ -1,8 +1,15 @@
-The assessment for this course has two components: 1) Group discussions from week 4 onwards (20%) 2) Project (80%)
+The assessment for this course has two components: 
 
-For the project, there will be three presentations (40%) and a final report (40%).
+1) Group discussions from week 4 onwards (20%)
+2) Project (80%)
 
-## Project Report
+## Project
+
+For the project (80%), there will be three presentations (40%) and a final report (40%).
+
+### Project Report
+
+Each team should deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the [ACL template](https://github.com/acl-org/acl-style-files)). For further instructions, topic ideas and examples of short papers see the [project_ideas.md](project_ideas.md).
 
 - **Abstract**: 250-word summary of your project including a formulation of its research questions and an overview of methods and results [5]
 
@@ -15,29 +22,29 @@ For the project, there will be three presentations (40%) and a final report (40%
 - **Methods**: Explain how you filtered data, normalized values, computed additional variables, etc. Detail the statistical analyses and other methods
 you will apply to assess your research question(s). Carefully document all references to methods and packages used. [10]
 
-- **Results**: Expose the results of your analysis including tables and figures that communicate and illustrate those results [10]
+- **Results**: Present the results of your analysis including tables and figures that communicate and illustrate those results [10]
 
 - **Conclusion and Discussion**: Evaluate answers to the question and their reliability. Identify limitations and alternative explanations for your results. [5]
 
-Note: Remember to include author contributions in the final report (After the conclusion). This does not count towards the page limit and make it as detailed as possible.
+_Note: Remember to include author contributions in the final report (after the conclusion). This does not count towards the page limit and should be as detailed as possible. Make sure to note which tasks have been assisted by AI tools (including identifying the tools)._
 
-## Project Presentations 
+### Project Presentations 
 
-All members of a group do not have to present but all members should be prepared to answer questions.
+All members of a group do not have to present but all members should be prepared to answer questions. Please make sure to keep to the allocated time.
 
-### Project Pitches [5 minutes for each team, 5 points]
+#### Project Pitches [5 minutes for each team, 5 points]
 
 - Research question and motivation [4]
 - project timeline [1]
 
-### Midterm Presentation [10 minutes for each team, 10 points]
+#### Midterm Presentation [10 minutes for each team, 10 points]
 
 - Brief research question and motivation [1]
 - Data and methods [5]
 - Preliminary results [3]
 - Planned next steps [1]
 
-### Final Presentation [12 minutes for each team but 15 mins of Q/A, 25 points]
+#### Final Presentation [12 minutes for each team but 15 mins of Q/A, 25 points]
 
 - Brief research question and motivation [1]
 - Data and methods [2]
