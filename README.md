@@ -1,4 +1,4 @@
-# IS 617 Large Language Models for the Economic and Social Sciences - HWS25 (University of Mannheim)
+# IS 617 Large Language Models for the Economic and Social Sciences (University of Mannheim)
 A course developed and taught by [Indira Sen](https://indiiigo.github.io/), [Abigail Hayes](https://www.bwl.uni-mannheim.de/strohmaier/team/wissenschaftliche-mitarbeiter/abigail-hayes/), and [Georg Ahnert](https://georgahnert.de/)
 
 This course aims to equip students with the theoretical foundations and practical skills necessary to leverage Large Language Models (LLMs) in computational social science research. Students will explore how LLMs can be used for analyzing social and economic data, modeling human behavior, and generating insights from large-scale data sources. They will also learn about the challenges of using LLMs for social research and how social science principles can help audit and evaluate LLMs.
