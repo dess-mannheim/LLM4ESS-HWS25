@@ -1,6 +1,6 @@
 The assessment for this course has two components: 1) Group discussions from week 4 onwards (20%) 2) Project (80%)
 
-For the project, there will be three presentations (30%) and a final report (50%).
+For the project, there will be three presentations (40%) and a final report (40%).
 
 ## Project Report
 
@@ -19,7 +19,7 @@ you will apply to assess your research question(s). Carefully document all refer
 
 - **Conclusion and Discussion**: Evaluate answers to the question and their reliability. Identify limitations and alternative explanations for your results. [5]
 
-Note: Remember to include author contributions in the final report (After the conclusion).
+Note: Remember to include author contributions in the final report (After the conclusion). This does not count towards the page limit and make it as detailed as possible.
 
 ## Project Presentations 
 
@@ -37,9 +37,10 @@ All members of a group do not have to present but all members should be prepared
 - Preliminary results [3]
 - Planned next steps [1]
 
-### Final Presentation [15 minutes for each team, 15 points]
+### Final Presentation [12 minutes for each team but 15 mins of Q/A, 25 points]
 
 - Brief research question and motivation [1]
 - Data and methods [2]
-- Results [7]
-- Conclusion and critique [5]
+- Results [5]
+- Conclusion and critique [2]
+- Q/A: 15 points
